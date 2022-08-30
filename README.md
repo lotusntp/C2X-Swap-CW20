@@ -6,7 +6,7 @@ Available for android phone.
 </div>
 
 ## Requirements
-After build, move the Data folder to bin/Debug/
+After build, move Data folder to bin/Debug/
 
 Support resolution mobile 1080 * 2340px.
 
