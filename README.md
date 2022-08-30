@@ -7,6 +7,7 @@ Available for android phone.
 
 ## Requirements
 After build, move the Data folder to bin/Debug/
+
 Support resolution mobile 1080 * 2340px.
 
 Enabling USB-Debugging.
